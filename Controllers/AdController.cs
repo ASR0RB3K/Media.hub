@@ -10,7 +10,7 @@ using System.IO;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Http;
 
-namespace media.hub.controllers
+namespace media.hub.controllers //media
 {
     [ApiController]
     [Route("api/[controller]")]
